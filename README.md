@@ -1,5 +1,5 @@
-# demo-shop-v2
-
+# shop-v2
+Shop V2
 ## Project setup
 ```
 yarn install
