@@ -1,5 +1,5 @@
-# shop-v2
-Shop V2
+# vue3-demo
+Demo app implementing vue 3 and typescript
 ## Project setup
 ```
 yarn install
